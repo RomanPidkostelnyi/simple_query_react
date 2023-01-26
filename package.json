@@ -1,0 +1,23 @@
+{
+  "name": "simple_react_query_by_rp",
+  "version": "1.0.0",
+  "description": "this package made to make api calls as simple as possible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanPidkostelnyi/simple_query_react.git"
+  },
+  "author": "Roman Pidkostelnyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanPidkostelnyi/simple_query_react/issues"
+  },
+  "homepage": "https://github.com/RomanPidkostelnyi/simple_query_react#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
